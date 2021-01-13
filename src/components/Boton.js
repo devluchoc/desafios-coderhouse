@@ -8,5 +8,4 @@ const BotonUno = () => {
     </Fragment>
   );
 };
-
 export default BotonUno;
