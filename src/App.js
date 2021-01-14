@@ -7,7 +7,7 @@ export default function App() {
   return (
     <Fragment>
       <NavBar />
-      <BotonUno/>
+      <BotonUno greeting={"Bienvenido!"}/>
     </Fragment>
   );
 }

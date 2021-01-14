@@ -5,3 +5,12 @@ img {
 img:hover {
   background: green;
 }
+
+.carrito {
+  color: aqua;
+  font-size: 60px;
+}
+
+.carrito:hover {
+  color: red;
+}
